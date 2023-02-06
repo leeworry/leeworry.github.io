@@ -21,7 +21,7 @@ Publication
 
 	**Wanli Li**, Tieyun Qian
 
-	*EMNLP 2022; [code](https://github.com/leeworry/GM_GEN) &#124; [paper](https://arxiv.org/pdf/2112.01048.pdf)*
+	*EMNLP 2022; [code](https://github.com/leeworry/GM_GEN) &#124; [paper](https://aclanthology.org/2022.emnlp-main.5.pdf)*
 	
 2. **From Consensus to Disagreement: Multi-Teacher Distillation for Semi-Supervised Relation Extraction**
 
