@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am now working as a lecturer at Huazhong Agricultural University.
+I am currently employed as a lecturer at Huazhong Agricultural University.
  
- My current research interests include information extraction, low-resource relation extraction, and few-shot learning. I am a member of ACM and IEEE.
+My present research focuses on information extraction, low-resource relation extraction, and few-shot learning. I am a member of ACM and IEEE.
 
- I graduated from [School of Computer Science, Wuhan University](http://cs.whu.edu.cn/) with a Ph.D in engineering, supervised by Professor [Tieyun Qian](http://cs.whu.edu.cn/teacherinfo.aspx?id=209). I received the BS degree in information management and information system from [Guangdong Medical University](https://www.gdmu.edu.cn/), China in 2016 and the MS degree in circuits and systems from [South China Normal University](https://www.scnu.edu.cn/), China supervised by Professor [Yun Xue](https://physics.scnu.edu.cn/a/20201219/6975.html) in 2019. 
+I obtained my Ph.D. in engineering from the [School of Computer Science, Wuhan University](http://cs.whu.edu.cn/) under the guidance of Professor [Tieyun Qian](http://cs.whu.edu.cn/teacherinfo.aspx?id=209). Prior to that, I received my master's degree in circuits and systems from [South China Normal University](https://www.scnu.edu.cn/), supervised by Professor [Yun Xue](https://physics.scnu.edu.cn/a/20201219/6975.html) in 2019. During this period, I was awarded a scholarship by the school due to my outstanding performance, which enabled me to visit and study at the [University of Montreal](https://www.umontreal.ca/en/) in Canada under the guidance of Professor [Jianyun Nie](http://rali.iro.umontreal.ca/nie-site/jian-yun-nie-en/).
+In 2016, I completed my BS degree in information management and information system from [Guangdong Medical University](https://www.gdmu.edu.cn/).
 
 
 Publication
