@@ -18,25 +18,31 @@ In 2016, I completed my BS degree in information management and information syst
 
 Publication
 ------
-1. **Graph-based Model Generation for Few-Shot Relation Extraction**
+1. **Adversarial multi-teacher distillation for semi-supervised relation extraction**
+
+	**Wanli Li**, Tieyun Qian, Xuhui Li, Lixin Zou
+
+	*TNNLS 2023; [code](https://github.com/leeworry/MTD4SemiRE) &#124; [paper](https://ieeexplore.ieee.org/abstract/document/10083156/)*
+
+2. **Graph-based Model Generation for Few-Shot Relation Extraction**
 
 	**Wanli Li**, Tieyun Qian
 
 	*EMNLP 2022; [code](https://github.com/leeworry/GM_GEN) &#124; [paper](https://aclanthology.org/2022.emnlp-main.5.pdf)*
 	
-2. **From Consensus to Disagreement: Multi-Teacher Distillation for Semi-Supervised Relation Extraction**
+3. **From Consensus to Disagreement: Multi-Teacher Distillation for Semi-Supervised Relation Extraction**
 
 	**Wanli Li**, Tieyun Qian
 
 	*arxiv preprint 2021; [code](https://github.com/leeworry/MTD4SemiRE) &#124; [paper](https://arxiv.org/pdf/2112.01048.pdf)*
 
-3. **Interactive Lexical and Semantic Graphs for Semisupervised Relation Extraction**
+4. **Interactive Lexical and Semantic Graphs for Semisupervised Relation Extraction**
 
 	**Wanli Li**, Tieyun Qian, Ming Zhong, Xu Chen
 
 	*TNNLS 2022 (CCF-B) &#124; [code](https://github.com/leeworry/LSGI) &#124; [paper](https://ieeexplore.ieee.org/abstract/document/9675808)*
 
-4. **Exploit a Multi-head Reference Graph for Semi-supervised Relation Extraction** 
+5. **Exploit a Multi-head Reference Graph for Semi-supervised Relation Extraction** 
 
 	**Wanli Li**, Tieyun Qian, Xu Chen, Kejian Tang, Shaohui Zhan, Tao Zhan
 
